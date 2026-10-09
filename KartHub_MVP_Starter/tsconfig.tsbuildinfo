@@ -1,1 +1,0 @@
-{"root":["./src/App.tsx","./src/main.tsx","./src/components/Layout.tsx","./src/components/RaceCard.tsx","./src/data/demo.ts","./src/lib/supabase.ts","./src/pages/FeedPage.tsx","./src/pages/MapPage.tsx","./src/pages/ProfilePage.tsx","./src/pages/RaceDetailPage.tsx","./src/pages/RacesPage.tsx","./src/pages/RankingPage.tsx","./src/types/domain.ts"],"errors":true,"version":"5.9.3"}
