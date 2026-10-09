@@ -1,0 +1,2 @@
+import {races} from '../data/demo'; import RaceCard from '../components/RaceCard';
+export default function RacesPage(){return <section><div className="page-head"><div className="eyebrow">DISCOVERY</div><h1>Gare</h1><p>Eventi selezionati, booking diretto o iscrizione sul sito dell'organizzatore.</p></div><div className="filters"><button className="active">Tutte</button><button>Sprint</button><button>Endurance</button><button>Ironman</button></div><div className="grid">{races.map(r=><RaceCard key={r.id} race={r}/>)}</div></section>}
